@@ -79,7 +79,8 @@ int main() {
 ~~~
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/35d39a46-51ba-49df-ba7f-15ac9c447dc6)
+![image](https://github.com/user-attachments/assets/e607a2e0-7891-41fe-884d-d0ac62229bf9)
+
 
 ## RESULT:
 The program for generating and verifying a Message Authentication Code (MAC) was executed successfully, demonstrating the integrity and authenticity of the message through a simple XOR-based MAC.
